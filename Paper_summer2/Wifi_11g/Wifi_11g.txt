@@ -1,0 +1,9 @@
+wlan0     IEEE 802.11  ESSID:"TP-LINK_59EE"  
+          Mode:Managed  Frequency:2.437 GHz  Access Point: FC:D7:33:72:59:EE   
+          Bit Rate=54 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=70/70  Signal level=-23 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:30  Invalid misc:0   Missed beacon:0
+
